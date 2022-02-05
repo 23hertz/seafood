@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-item{
+    padding-right:20px;
+}
+
+.good{
+    font-size: 60px;
+}
+
+.obt{
+    border-radius:0;    
+}
+
+.obt:hover{
+    box-shadow: none;
+}
+
+.obt:active{
+    box-shadow: none;
+}
+
+@media only screen and (max-width: 375px) {
+    .carb {
+      margin-top: 20px;
+    }
+  }
